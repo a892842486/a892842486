@@ -21,7 +21,7 @@ A Rails 8 e-commerce application featuring product management, shopping cart, or
 **[Bamu Portfolio](https://github.com/a892842486/bamu-portfolio)**
 A Rails 8 portfolio website with a custom admin dashboard for managing profiles, skills, projects, and images.
 
-[GitHub Repository](https://github.com/a892842486/bamu-portfolio)
+[Live Demo](https://bamu-portfolio.onrender.com/)
 
 ### 🎯 Currently
 
