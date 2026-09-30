@@ -1,9 +1,28 @@
-## Hi, I'm 陳宏育 👋
+# Hi, I'm Bamu 👋
 
-自學轉職的 Ruby on Rails 開發者。
+**Aspiring Full-Stack Developer | Ruby on Rails**
 
-**技術：** Ruby on Rails 8、PostgreSQL、AWS S3、Tailwind CSS、Git
+I'm a self-taught developer focused on Ruby on Rails, building full-stack web applications through hands-on projects.
 
-**專案：** [任天堂 amiibo 專賣網站](https://jdstore20260510.onrender.com) — Rails 8 全端電商，含購物車、訂單狀態機、i18n 多語系
+### 🛠️ Tech Stack
 
-**目前：** 尋求 Rails 後端 / 全端工程師職位
+* **Backend:** Ruby, Rails 8, PostgreSQL
+* **Frontend:** JavaScript, Stimulus, Tailwind CSS
+* **Tools & Services:** Git, GitHub, Devise, AASM, Active Storage, AWS S3
+* **Deployment:** Render
+
+### 🚀 Projects
+
+**[Amiibo Store](https://github.com/a892842486/amiibo-store)**
+A Rails 8 e-commerce application featuring product management, shopping cart, order workflows, user authentication, and an admin dashboard.
+
+[Live Demo](https://jdstore20260510.onrender.com)
+
+**[Bamu Portfolio](https://github.com/a892842486/bamu-portfolio)**
+A Rails 8 portfolio website with a custom admin dashboard for managing profiles, skills, projects, and images.
+
+[GitHub Repository](https://github.com/a892842486/bamu-portfolio)
+
+### 🎯 Currently
+
+Seeking a **Junior Full-Stack Developer** position, with a focus on Ruby on Rails backend development while continuing to strengthen frontend skills.
