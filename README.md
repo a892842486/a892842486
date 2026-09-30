@@ -25,4 +25,7 @@ A Rails 8 portfolio website with a custom admin dashboard for managing profiles,
 
 ### 🎯 Currently
 
-Seeking a **Junior Full-Stack Developer** position, with a focus on Ruby on Rails backend development while continuing to strengthen frontend skills.
+Seeking a **Junior Full-Stack Developer** position, with a focus on Ruby on Rails backend development.
+
+Open to learning and adopting other programming languages and technologies based on market demand, project requirements, and team needs.
+
